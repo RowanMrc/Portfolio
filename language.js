@@ -7,14 +7,14 @@ var data = {
 
     "btnpopup" : "Continue",
 
-    "help" : `<li><code>about-me</code>: Display information about me</li>
+    "help" : `<li><code>about-me</code>: information about me</li>
     <li><code>clear</code>: Clean the terminal</li>
-    <li><code>experiences</code>: Displays the list of my experiences</li>
+    <li><code>experiences</code>: list of my experiences</li>
     <li><code>get cv</code>: Download my CV</li>
     <li><code>get linkedin</code>: Link to my Linkedin</li>
     <li><code>get github</code>: Link to my Github</li>
-    <li><code>help</code>: Displays the list of commands</li>
-    <li><code>passions</code>: Displays the list of my hobbies</li>
+    <li><code>help</code>: list of commands</li>
+    <li><code>passions</code>: list of my hobbies</li>
     <li><code>themes</code>: Change the terminal theme</li>
     <li><em>You can use the TAB key to complete a command line</em></li>
     <li><em>You can find the old commands with the up and down arrows</em></li>`,
