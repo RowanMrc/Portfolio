@@ -497,11 +497,11 @@ a{
   display: grid;
   grid-template-columns: 1fr 2fr;
   align-items: flex-start;
-  justify-content: center;
+  justify-content: left;
 }
 
 #settings{
-  transform: scale(0.5);
+  transform: scale(0.2);
 }
 
 .btn{

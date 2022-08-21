@@ -3,7 +3,7 @@ var data = {
   {
     "welcome" : "Welcome to my portfolio ! To display the available commands type <code>help</code>. To validate each command press <em>Enter</em>, you can use the <em>Tabulation</em> key to help you complete a command.",
 
-    "information" : "This site was entirely created using <code>HTML</code>, <code>CSS</code> and <code>Javascript</code> without using any library or framework. This site contains a large number of features (hidden animations, secret themes, etc.) but also a well-hidden <code>easter egg</code> that only developers can find. Good discovery!",
+    "information" : "This site was entirely created using <code>HTML</code>, <code>CSS</code> and <code>Javascript</code> without using any library or framework.",
 
     "btnpopup" : "Continue",
 
@@ -162,7 +162,7 @@ var data = {
   {
     "welcome" : "Bienvenue sur mon Portfolio ! Pour afficher les commandes disponibles tapez <code>help</code>. Pour valider chaque commande appuyez sur <em>Entrer</em>, vous pouvez utiliser la touche <em>Tabulation</em> afin de vous aider à compléter une commande.",
     
-    "information" : "Ce site a entièrement été réalisé sous <code>HTML</code>, <code>CSS</code> et <code>Javascript</code> sans faire appel à la moindre librairie ou framework. Ce site renferme un grand nombre de fonctionnalités (animations cachées, thèmes secrets, etc.) mais également un <code>easter egg</code> bien caché que seul les développeurs pourront trouver. Bonne découverte!",
+    "information" : "Ce site a entièrement été réalisé sous <code>HTML</code>, <code>CSS</code> et <code>Javascript</code> sans faire appel à la moindre librairie ou framework.",
 
     "btnpopup" : "Continuer",
 
